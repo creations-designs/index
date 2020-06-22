@@ -1,5 +1,5 @@
-# index
-Index
+index
+# Index
 
 ## 1. Phase: Planning 
 
