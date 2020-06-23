@@ -3,7 +3,7 @@ index
 
 ## 1. Phase: Planning 
 
-- 1.1. Project Management
+- 1.1. Project Management (https://github.com/creationsprojects)
 - 1.2. Documentation Management
 - 1.3. Roadmap Management
 - 1.4. Financial Management
