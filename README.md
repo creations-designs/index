@@ -1,5 +1,7 @@
 index
-# Index
+# Creations Designs: Index
+
+![Creations Organization](https://raw.githubusercontent.com/creationsdesigns/index/master/Creations_Organization.PNG)
 
 ## 1. Phase: Planning 
 
